@@ -1,3 +1,27 @@
-.card:hover {
+.col{
+    height: 380px;
+    text-align: center;
+}
+.col:hover {
     box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+.navbarSupportedContent{
+    display: flex;
+    float:right
+}
+a{
+    text-decoration: none;
+    color:black
+}
+img{
+    height: 200px;
+    width: 250px;
+}
+.bottom-container {
+    margin: 0px;
+    background-color: gray;
+    height: 50px;
+    align-items: center;
+    text-align: center;
+    color: white;
 }
